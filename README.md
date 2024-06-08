@@ -39,6 +39,7 @@ The best-performing model based on accuracy was Random Forest with an accuracy o
 ## ⚙️Usage
 To use this project, follow these steps:
 1. Clone the repository:
+   
    ```bash
    git clone https://github.com/ARKnajmi/AirQualityClassification.git
    ```
